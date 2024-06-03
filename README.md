@@ -1,6 +1,7 @@
 ![Soulmask Preview](Assets/ico.ico)
 # Soulmask Server Installer
-Overview
+
+# Overview
 The Soulmask Server Installer is a GUI tool designed to simplify the process of setting up and deploying a Steam Soulmask game server.
 
 ![Soulmask Preview](Assets/preview.png)
