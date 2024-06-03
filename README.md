@@ -2,6 +2,8 @@
 Overview
 The Soulmask Server Installer is a GUI tool designed to simplify the process of setting up and deploying a Steam Soulmask game server.
 
+![Soulmask Preview](Assets/preview.png)
+
 # Features
 Graphical User Interface: Easy-to-use interface built with tkinter.
 IP Address Validation: Ensures valid IP addresses are entered.
