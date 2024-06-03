@@ -6,11 +6,10 @@ The Soulmask Server Installer is a GUI tool designed to simplify the process of 
 ![Soulmask Preview](Assets/preview.png)
 
 # Features
-Graphical User Interface: Easy-to-use interface built with tkinter.
-IP Address Validation: Ensures valid IP addresses are entered.
-SSH Execution: Securely connects and executes commands on the remote server using paramiko.
-Asynchronous Execution: Tasks run in separate threads to keep the UI responsive.
-Progress Indicator: Displays a progress bar to track the deployment status.
+Graphical User Interface
+IP Address Validation
+Asynchronous Execution
+Progress Indicator
 
 # Usage
 Launch the Installer: Double-click the Soulmask Server Installer.exe file to open the application.
