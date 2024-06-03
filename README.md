@@ -6,10 +6,7 @@ The Soulmask Server Installer is a GUI tool designed to simplify the process of 
 ![Soulmask Preview](Assets/preview.png)
 
 # Features
-Graphical User Interface
-IP Address Validation
-Asynchronous Execution
-Progress Indicator
+Graphical User Interface | IP Address Validation | Asynchronous Execution | Progress Indicator
 
 # Usage
 Launch the Installer: Double-click the Soulmask Server Installer.exe file to open the application.
